@@ -1,0 +1,220 @@
+"Phrases"
+{
+    "Your Melee Broke"
+    {
+        "en"    "Your weapon has worn out from use"
+    }
+
+    "Weapon_bow_deerhunter"
+    {
+        "en"	"PSE Deer Hunter"
+    }
+    "Weapon_exp_grenade"
+    {
+        "en"	"M67 Grenade"
+    }
+    "Weapon_exp_molotov"
+    {
+        "en"	"Molotov"
+    }
+    "Weapon_exp_tnt"
+    {
+        "en"	"TNT"
+    }
+    "Weapon_fa_500a"
+    {
+        "en"	"Mossberg 500a"
+    }
+    "Weapon_fa_870"
+    {
+        "en"	"Remington 870"
+    }
+    "Weapon_fa_1022"
+    {
+        "en"	"Ruger 10/22"
+    }
+    "Weapon_fa_1022_25mag"
+    {
+        "en"	"Ruger 10/22 w/ Extended Magazine"
+    }
+    "Weapon_fa_1911"
+    {
+        "en"	"Colt 1911"
+    }
+    "Weapon_fa_cz858"
+    {
+        "en"	"CZ858"
+    }
+    "Weapon_fa_fnfal"
+    {
+        "en"	"FN FAL"
+    }
+    "Weapon_fa_glock17"
+    {
+        "en"	"Glock 17"
+    }
+    "Weapon_fa_jae700"
+    {
+        "en"	"JAE-700"
+    }
+    "Weapon_fa_m16a4"
+    {
+        "en"	"M16A4"
+    }
+    "Weapon_fa_m16a4_carryhandle"
+    {
+        "en"	"M16A4 w/ Carry Handle"
+    }
+    "Weapon_fa_m92fs"
+    {
+        "en"	"Beretta M92FS"
+    }
+    "Weapon_fa_mac10"
+    {
+        "en"	"Ingram Mac-10"
+    }
+    "Weapon_fa_mp5a4"
+    {
+        "en"	"Heckler & Koch MP5A4"
+    }
+    "Weapon_fa_mkiii"
+    {
+        "en"	"Ruger MKIII"
+    }
+    "Weapon_fa_sako85"
+    {
+        "en"	"Sako 85 (Scoped)"
+    }
+    "Weapon_fa_sako85_ironsights"
+    {
+        "en"	"Sako 85 (Ironsights)"
+    }
+    "Weapon_fa_sks"
+    {
+        "en"	"Simonov SKS (Bayonet)"
+    }
+    "Weapon_fa_sks_nobayo"
+    {
+        "en"	"Simonov SKS (No Bayonet)"
+    }
+    "Weapon_fa_superx3"
+    {
+        "en"	"Winchester Super X3"
+    }
+    "Weapon_fa_sv10"
+    {
+        "en"	"Beretta Perennia SV10"
+    }
+    "Weapon_fa_sw686"
+    {
+        "en"	"Smith & Wesson 686"
+    }
+    "Weapon_fa_winchester1892"
+    {
+        "en"	"Winchester 1892"
+    }
+    "Weapon_item_bandages"
+    {
+        "en"	"Bandages"
+    }
+    "Weapon_item_maglite"
+    {
+        "en"	"Maglite"
+    }
+    "Weapon_item_pills"
+    {
+        "en"	"Phalanx Pills"
+    }
+    "Weapon_item_first_aid"
+    {
+        "en"	"First Aid Kit"
+    }
+    "Weapon_item_gene_therapy"
+    {
+        "en"	"Gene Therapy"
+    }
+    "Weapon_item_walkietalkie"
+    {
+        "en"	"Walkie Talkie"
+    }
+    "Weapon_me_abrasivesaw"
+    {
+        "en"	"Abrasive Saw"
+    }
+    "Weapon_me_axe_fire"
+    {
+        "en"	"Fire Axe"
+    }
+    "Weapon_me_bat_metal"
+    {
+        "en"	"Baseball Bat"
+    }
+    "Weapon_me_chainsaw"
+    {
+        "en"	"Chainsaw"
+    }
+    "Weapon_me_crowbar"
+    {
+        "en"	"Crowbar"
+    }
+    "Weapon_me_cleaver"
+    {
+        "en"	"Cleaver"
+    }
+    "Weapon_me_etool"
+    {
+        "en"	"E-Tool"
+    }
+    "Weapon_me_fubar"
+    {
+        "en"	"Fubar"
+    }
+    "Weapon_me_hatchet"
+    {
+        "en"	"Hatchet"
+    }
+    "Weapon_me_kitknife"
+    {
+        "en"	"Kit Knife"
+    }
+    "Weapon_me_machete"
+    {
+        "en"	"Machete"
+    }
+    "Weapon_me_pickaxe"
+    {
+        "en"	"Pickaxe"
+    }
+    "Weapon_me_pipe_lead"
+    {
+        "en"	"Lead Pipe"
+    }
+    "Weapon_me_shovel"
+    {
+        "en"	"Shovel"
+    }
+    "Weapon_me_sledge"
+    {
+        "en"	"Sledgehammer"
+    }
+    "Weapon_me_wrench"
+    {
+        "en"	"Wrench"
+    }
+    "Weapon_tool_barricade"
+    {
+        "en"	"Barricade Hammer"
+    }
+    "Weapon_tool_extinguisher"
+    {
+        "en"	"Fire Extinguisher"
+    }
+    "Weapon_tool_flare_gun"
+    {
+        "en"	"Flare Gun"
+    }
+    "Weapon_tool_welder"
+    {
+        "en"	"Cutting Torch"
+    }
+}
