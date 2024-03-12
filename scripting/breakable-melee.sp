@@ -6,6 +6,8 @@
 #define MAX_EDICTS	  2048
 #define MAX_CLASSNAME 80
 
+#define SND_EMPTY "common/null.wav"
+
 public Plugin myinfo =
 {
 	name		= "Breakable Melee",
@@ -137,6 +139,7 @@ void OnBreakableSoundChanged(ConVar convar, const char[] oldValue, const char[] 
 
 public void OnMapStart()
 {
+	PrecacheSound(SND_EMPTY);
 	PrecacheBreakSound();
 }
 
@@ -210,6 +213,8 @@ void Break(int melee)
 	int owner = GetEntPropEnt(melee, Prop_Send, "m_hOwner");
 	if (owner != -1)
 	{
+		EmitSoundToClient(owner, sound);
+		
 		char caption[255];
 		FormatEx(caption, sizeof(caption), "%T", "Your Melee Broke", owner);
 
@@ -217,7 +222,7 @@ void Break(int melee)
 			"hint_melee_broke", "hint_melee_broke", 0, 0, 5,
 			ICON_ALERT, ICON_ALERT, 
 			caption, caption,  255, 255, 255, 
-			0.0, 0.0, 0, "+use", true, false, false, false, sound, 255);
+			0.0, 0.0, 0, "+use", true, false, false, false, SND_EMPTY, 255);
 	}
 
 	for (int client = 1; client <= MaxClients; client++)
