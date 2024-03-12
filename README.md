@@ -8,6 +8,11 @@ Anything that imposes a stamina penalty also causes the weapon to wear down.
 
 ![image](https://github.com/dysphie/nmrih-breakable-weapons/assets/11559683/cde38476-7c6a-493c-9fa1-c8869ce83f6e)
 
+
+## Requirements
+- Sourcemod
+- No More Room in Hell 1.13.5 or higher
+
 ## ConVars 
 | Variable | Description | Default value |
 | --- | --- | --- |
