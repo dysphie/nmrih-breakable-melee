@@ -193,8 +193,6 @@ MRESReturn Detour_DrainMeleeSwingStamina(int melee)
 
 	UpdateLabel(melee, owner);
 
-	PrintToServer("Durability: %d", durability[melee]);
-
 	if (durability[melee] <= 0)
 	{
 		Break(melee);
