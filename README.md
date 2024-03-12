@@ -1,7 +1,7 @@
 > [!NOTE]
 > This plugin is from the future and cannot be used yet
 
-# [NMRiH] Breakable Weapons
+# [NMRiH] Breakable Melee
 Adds durability to melee weapons, causing them to break after prolonged use.
 
 Anything that imposes a stamina penalty also causes the weapon to wear down.
